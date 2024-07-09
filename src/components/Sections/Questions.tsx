@@ -5,7 +5,7 @@ import { QuestionsToogler } from "./QuestionsToogler";
 
 export function Questions() {
   return (
-    <section className="flex justify-between gap-32 w-[1280px] ">
+    <section className="flex justify-between gap-32 w-[1280px] " id="Perguntas">
       <div className="col-span-1 flex flex-col gap-4 w-[395px]">
         <h1 className="font-bold text-4xl text-start">Ficou com dúvidas?</h1>
         <p>
