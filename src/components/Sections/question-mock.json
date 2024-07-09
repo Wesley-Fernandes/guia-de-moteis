@@ -1,0 +1,32 @@
+{
+  "pagamento": [
+    {
+      "title": "Métodos de Pagamento",
+      "description": "Aceitamos cartões de crédito, débito e PayPal."
+    },
+    {
+      "title": "Parcelamento",
+      "description": "Oferecemos parcelamento em até 12 vezes sem juros."
+    }
+  ],
+  "conta": [
+    {
+      "title": "Criação de Conta",
+      "description": "Para criar uma conta, clique em 'Registrar' e preencha os seus dados."
+    },
+    {
+      "title": "Recuperação de Senha",
+      "description": "Para recuperar sua senha, clique em 'Esqueci minha senha' na tela de login."
+    }
+  ],
+  "desconto": [
+    {
+      "title": "Cupons de Desconto",
+      "description": "Insira o código do seu cupom de desconto na finalização da compra."
+    },
+    {
+      "title": "Promoções",
+      "description": "Fique atento às nossas promoções especiais divulgadas no site e nas redes sociais."
+    }
+  ]
+}
