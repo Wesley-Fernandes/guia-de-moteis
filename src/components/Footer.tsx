@@ -31,9 +31,9 @@ function Footer() {
         <small className="text-white">
           2024 - Todos os direitos reservados
         </small>
-        <div className="flex items-center gap-3">
-          <span className="text-white">Um aplicativo:</span>
-          <img src="/guia.png" alt="guia" className="w-32" />
+        <div className="flex items-center gap-1">
+          <span className="text-white text-sm">Um aplicativo:</span>
+          <img src="/guia.svg" alt="guia" className="w-32" />
         </div>
       </div>
     </footer>
