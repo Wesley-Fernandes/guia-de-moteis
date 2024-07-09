@@ -24,7 +24,7 @@ export function Why() {
           alt="Payments forms image"
           height={349}
           width={309}
-          src="/formas-de-pagamento.png"
+          src="/payments.svg"
           subtitle="Facilidade e conveniência no pagamento."
           title="Pagamento com pix e parcelamento"
           key="Payments"
@@ -36,7 +36,7 @@ export function Why() {
           alt="footer imagem"
           height={458}
           width={458}
-          src="/discount.png"
+          src="/Discount.svg"
           subtitle="Economize em suas reservas."
           title="Descontos de até 50%"
           key="Descount"

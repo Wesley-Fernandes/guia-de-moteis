@@ -24,6 +24,7 @@ export function Homepage() {
           alt="home-image"
           width={800}
           height={800}
+          priority
           className="w-full relative z-10 -right-11"
         />
       </div>
