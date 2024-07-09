@@ -14,7 +14,7 @@ export function Why() {
           alt="Cellphone reserving hotel image"
           height={458}
           width={458}
-          src="/mock.png"
+          src="/mock.svg"
           title="Reserva imediata ou para outra data"
           subtitle="Flexibilidade total para planejar sua estadia."
           key="reserve"
